@@ -1,7 +1,7 @@
 name: rollwithit
 favicon: null
-layout_spectrum: 0.08768953592516482
-typography_spectrum: 0.3449606301728636
+layout_spectrum: 1
+typography_spectrum: 0.60894
 title: 'Roll with it!'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.39528978057205677
-  lightness: 0.028081557713449
-  saturation: 0.14610614883713424
-  rhythmicContrast: 0.7462266003713012
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
