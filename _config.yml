@@ -2,6 +2,7 @@ name: rollwithit
 favicon: null
 layout_spectrum: 0.08768953592516482
 typography_spectrum: 0.3449606301728636
+title: 'Roll with it!'
 cta:
   domain: null
   bucket: null
